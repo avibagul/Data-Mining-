@@ -1,3 +1,5 @@
 # Data-Mining-
 
-Dog Classification
+1 ) Dog Classification
+
+2 ) Time Series Classification of User Movement Data
